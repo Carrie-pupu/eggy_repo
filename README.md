@@ -1,1 +1,1 @@
-This EGGY's first repository in GitHub!
+This is EGGY's first repository in GitHub!
